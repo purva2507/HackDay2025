@@ -51,7 +51,8 @@ Central to the application is its image recognition capability, which provides t
 1.  Clone the repository:
 
     ```bash
-    git clone [[https://github.com/diksha-ashkid/LensFleur_Flora.AI.git](https://github.com/diksha-ashkid/LensFleur_Flora.AI.git)](https://github.com/purva2507/HackDay2025/tree/main/HackDay2025)
+    git clone [https://github.com/purva2507/HackDay2025.git](https://www.google.com/search?q=https://github.com/purva2507/HackDay2025.git)
+    cd HackDay2025
     ```
 
 2.  Install the required packages:
