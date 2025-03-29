@@ -52,7 +52,7 @@ Central to the application is its image recognition capability, which provides t
 
     ```bash
     git clone [https://github.com/purva2507/HackDay2025.git](https://www.google.com/search?q=https://github.com/purva2507/HackDay2025.git)
-    cd HackDay2025
+    cd HackDay2025](https://github.com/purva2507/HackDay2025.git)
     ```
 
 2.  Install the required packages:
